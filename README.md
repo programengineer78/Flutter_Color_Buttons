@@ -28,6 +28,10 @@ start using the package.
 TODO: Include short and useful examples for package users. Add longer examples
 to `/example` folder. 
 
+##ScreenShots
+
+<img src="https://github.com/programengineer78/Flutter_Color_Buttons/blob/main/Preview.png" />
+
 ```dart
 const like = 'sample';
 ```
