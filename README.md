@@ -1,8 +1,8 @@
 
-[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-blue?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
-[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-blue?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
-[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-blue?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
-[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-blue?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
+[![Made Flutter](https://img.shields.io/badge/Made%20with-Jupyter-blue?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
+[![Flutter Version - @latest](https://img.shields.io/badge/Made%20with-Jupyter-blue?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
+[![Made with Dart](https://img.shields.io/badge/Made%20with-Jupyter-blue?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
+[![Dart Version - @latest](https://img.shields.io/badge/Made%20with-Jupyter-blue?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 
 
 
