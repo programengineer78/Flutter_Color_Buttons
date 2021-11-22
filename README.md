@@ -1,5 +1,5 @@
 
-[! Open In Collab (https://colab.research.google.com/assets/colab-badge.svg)]. [! Open In Collab (https://colab.research.google.com/assets/colab-badge.svg)] [! Open In Collab (https://colab.research.google.com/assets/colab-badge.svg)] [ Open In Collab (https://colab.research.google.com/assets/colab-badge.svg)]
+[! Open In Collab (https://colab.research.google.com/assets/colab-badge.svg)]
 
 
 ## Features
