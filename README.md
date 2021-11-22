@@ -3,7 +3,6 @@
 [![Flutter Version - @latest](https://img.shields.io/badge/Flutter%20Version-@latest-blue?style=for-the-badge&logo=version)]()
 [![Made with Dart](https://img.shields.io/badge/Made%20with-Dart-blue?style=for-the-badge&logo=dart)](https://dart.dev/)
 [![Dart Version - @latest](https://img.shields.io/badge/Dart%20Version-@latest-blue?style=for-the-badge&logo=version)]()
-[![Made with Dart](https://img.shields.io/badge/Made%20with-Dart-blue?style=for-the-badge&logo=dart)](https://dart.dev/)
 [![Made with Material design](https://img.shields.io/badge/Material%20Design-blue?style=for-the-badge&logo=Material design)](https://material.io/)
 
 
